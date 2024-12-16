@@ -1,5 +1,0 @@
-
-headers = c(
-  "Authorization" = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InNjaHViZXJ0QGRlbW9nci5tcGcuZGUiLCJuYmYiOjE3MjI4NzQwNDksImV4cCI6MTc1NDQxMDA0OSwiaWF0IjoxNzIyODc0MDQ5LCJpc3MiOiJkb3RuZXQtdXNlci1qd3RzIiwiYXVkIjoiZGF0YS1wb3J0YWwtYXBpIn0.LL04aPq3tFyxEkMDrgXb2c24chWdFvqGPKNaffNOSpY"
-)
-

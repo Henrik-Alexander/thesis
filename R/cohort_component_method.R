@@ -12,7 +12,7 @@
 rm(list = ls())
 
 # Load the web-scraping
-source("kapitel8/wpp_scraping.R")
+source("R/wpp_scraping.R")
 
 # Load the DemoTools package
 # install.packages("remotes)
